@@ -6,5 +6,5 @@ logging:
           samples: INFO
 
 fortune:
-  fallbackFortune: Your future is very uncertain. Test is this working?
+  fallbackFortune: Your future is very uncertain. Disabled MySQL v1.
 
